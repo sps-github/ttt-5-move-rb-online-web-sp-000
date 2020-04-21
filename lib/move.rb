@@ -9,4 +9,3 @@ end
 def input_to_index(user_input)
   puts 5.to_i
 end
-
