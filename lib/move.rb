@@ -8,4 +8,5 @@ end
 
 def input_to_index(user_input)
   puts '1'.to_i
+  puts 'nil'.to_i
 end
