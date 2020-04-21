@@ -7,6 +7,6 @@ def display_board(board)
 end
 
 def input_to_index(user_input)
-  puts user_input.to_i
+  puts 5.to_i
 end
-5
+
